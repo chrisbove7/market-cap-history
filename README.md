@@ -15,5 +15,3 @@
 # the first year market cap is 100 all of the companies.
 
 # For example, this is what I got for my "Indexed" annual market cap growth.
-
-
